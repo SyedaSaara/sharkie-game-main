@@ -5,13 +5,13 @@ Sharkie is a Jump-and-Run game developed using an object-oriented approach that 
 <br>
 <h2>Key Features </h2>
 <br>
-» Object-oriented programming
-» Jump-and-Run mechanics
+» Object-oriented programming<br>
+» Jump-and-Run mechanics<br>
 » Collectible items
 <br>
 <h2>Build with</h2>
 <br>
-» HTML
-» CSS
-» JS
+» HTML<br>
+» CSS<br>
+» JS<br>
 
