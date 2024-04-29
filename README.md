@@ -29,7 +29,7 @@ Sharkie is a Jump-and-Run game developed using an object-oriented approach that 
 # Preview 
 <br>
 
-<img src="![Untitled design](https://github.com/SyedaSaara/sharkie-game-main/assets/152314504/1ebbc728-4776-47a7-9bf7-400889febd69)
-" alt="" width="500" height="600">
+![sharkie png](https://github.com/SyedaSaara/sharkie-game-main/assets/152314504/54eedf80-5590-4847-b20d-c735c931253a)
+
 
 
