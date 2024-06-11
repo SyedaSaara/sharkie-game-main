@@ -19,7 +19,7 @@ Sharkie is a Jump-and-Run game developed using an object-oriented approach that 
 - Mute/Unmute function is accessible in the settings menu and during the game via the icons<br>
 - There is a game help that can be displayed by clicking on the lifebelt<br>
 
-<br>
+<br> 
 <h2>Build with</h2>
 <br> 
 - HTML<br>
